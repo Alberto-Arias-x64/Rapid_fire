@@ -23,7 +23,9 @@ El código es abierto y de dominio público, no me responsabilizo por
 ## Imagenes
 
 Mi velocidad actual
+
 ![App Screenshot](http://drive.google.com/uc?export=view&id=1jCltH7XY-9X2qkewn9ZnGTnCXYfwlnxc)
 
 Velocidad con 🔥Rapid fire
+
 ![App Screenshot](http://drive.google.com/uc?export=view&id=1hj7PO0oVfK9W9ZK-uVtBtZC54Ggz9BnG)
